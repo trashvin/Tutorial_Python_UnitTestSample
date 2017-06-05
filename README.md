@@ -1,6 +1,4 @@
-# Python Tutorial : Unit Testing in Python ( A Primer) 
-
-[![Build Status](https://travis-ci.org/trashvin/Tutorial_Python_UnitTestSample.svg?branch=master)](https://travis-ci.org/trashvin/Tutorial_Python_UnitTestSample)
+# Python Tutorial : Unit Testing in Python ( A Primer)  [![Build Status](https://travis-ci.org/trashvin/Tutorial_Python_UnitTestSample.svg?branch=master)](https://travis-ci.org/trashvin/Tutorial_Python_UnitTestSample)
 
 Unit testing example in Python
 
